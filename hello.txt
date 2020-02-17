@@ -1,7 +1,3 @@
 welcome to the world of programming and git vcs
-<<<<<<< HEAD
-Sorry to say you, i am changed
-=======
-this is the second line added to this from github.com
->>>>>>> 6ae8b01aac4e8a70fd19187e9bacdf794f51d7c0
+
 
